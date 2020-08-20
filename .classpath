@@ -9,5 +9,8 @@
 	<classpathentry kind="src" path="predicado"/>
 	<classpathentry kind="src" path="consumer"/>
 	<classpathentry kind="src" path="funcoes"/>
+	<classpathentry kind="src" path="Stream"/>
+	<classpathentry kind="src" path="Pipeline"/>
+	<classpathentry kind="src" path="Atividades"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
